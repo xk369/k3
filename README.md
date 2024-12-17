@@ -1,4 +1,4 @@
-# Задание 3
+# Задание 3 (Вариант 13)
 
 Разработать инструмент командной строки для учебного конфигурационного
 языка, синтаксис которого приведен далее. Этот инструмент преобразует текст из
@@ -46,13 +46,22 @@ dict(
 
 
 # Решение
-
+# Запуск для примера 1
 ```python3 tool.py input/web_example.xml output/result.txt```
-```python3 tool.py input/example.xml output/result.txt```
-# Результаты
+
+# Результат для примера 1
 <img width="928" alt="Снимок экрана 2024-12-17 в 7 00 43 PM" src="https://github.com/user-attachments/assets/7209b589-85dd-4c22-9b07-66de5dd9197c" />
-<img width="704" alt="Снимок экрана 2024-12-17 в 6 59 22 PM" src="https://github.com/user-attachments/assets/6fc425c5-e317-4c7a-8a62-71f539707ea3" />
+
+# Запуск для примера 2
+
+```python3 tool.py input/example.xml output/result.txt```
+
+# Результат для примера 2
 <img width="928" alt="Снимок экрана 2024-12-17 в 6 59 59 PM" src="https://github.com/user-attachments/assets/fcfe479c-c493-4fcb-9856-883a2f101481" />
+
+
+# Тестирование
+<img width="1073" alt="image" src="https://github.com/user-attachments/assets/07a9d2f9-354c-4b27-b677-9cdd4614b887" />
 
 
 
