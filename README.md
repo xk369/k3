@@ -50,6 +50,11 @@ dict(
 ```python3 tool.py input/web_example.xml output/result.txt```
 ```python3 tool.py input/example.xml output/result.txt```
 # Результаты
+<img width="928" alt="Снимок экрана 2024-12-17 в 7 00 43 PM" src="https://github.com/user-attachments/assets/7209b589-85dd-4c22-9b07-66de5dd9197c" />
+<img width="704" alt="Снимок экрана 2024-12-17 в 6 59 22 PM" src="https://github.com/user-attachments/assets/6fc425c5-e317-4c7a-8a62-71f539707ea3" />
+<img width="928" alt="Снимок экрана 2024-12-17 в 6 59 59 PM" src="https://github.com/user-attachments/assets/fcfe479c-c493-4fcb-9856-883a2f101481" />
+
+
 
 
 
