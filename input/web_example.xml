@@ -1,0 +1,21 @@
+<config>
+    <constants>
+        <constant name="web_root">/var/www/html</constant>
+        <constant name="log_path">/var/log/nginx/access.log</constant>
+        <constant name="listen_port">80</constant>
+    </constants>
+    <arrays>
+        <array name="allowed_ips">
+            <value>192.168.1.1</value>
+            <value>192.168.1.2</value>
+            <value>192.168.1.3</value>
+        </array>
+    </arrays>
+    <dictionaries>
+        <dict name="server_config">
+            <entry key="server_name">example.com</entry>
+            <entry key="document_root">/var/www/html</entry>
+            <entry key="listen_port">80</entry>
+        </dict>
+    </dictionaries>
+</config>

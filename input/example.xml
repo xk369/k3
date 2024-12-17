@@ -1,0 +1,23 @@
+<config>
+    <constants>
+        <constant name="PI">3.14</constant>
+        <constant name="E">2.71</constant>
+        <constant name="sqrt_example">sqrt(49)</constant>
+        <constant name="len_example">len([1, 3, 3])</constant>
+        <constant name="sum_example">[1 + 2 + 3]</constant>
+        <constant name="complex_expression">sqrt(16) + len([1, 2, 3])</constant>
+    </constants>
+    <arrays>
+        <array name="numbers">
+            <value>1</value>
+            <value>2</value>
+            <value>3</value>
+        </array>
+    </arrays>
+    <dictionaries>
+        <dict name="person">
+            <entry key="name">John</entry>
+            <entry key="age">30</entry>
+        </dict>
+    </dictionaries>
+</config>
