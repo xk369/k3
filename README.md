@@ -86,7 +86,8 @@ dict(
 
 
 # Тестирование
-<img width="1073" alt="image" src="https://github.com/user-attachments/assets/07a9d2f9-354c-4b27-b677-9cdd4614b887" />
+<img width="938" alt="image" src="https://github.com/user-attachments/assets/57fefeff-57d7-4021-8bf9-49e1719aef2f" />
+
 
 
 
