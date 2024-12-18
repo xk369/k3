@@ -47,14 +47,14 @@ dict(
 
 # Решение
 # Запуск для примера 1
-```python3 tool.py input/web_example.xml output/result.txt```
+```python3 tool.py input/example.xml output/result.txt```
 
 # Результат для примера 1
 <img width="928" alt="Снимок экрана 2024-12-17 в 7 00 43 PM" src="https://github.com/user-attachments/assets/7209b589-85dd-4c22-9b07-66de5dd9197c" />
 
 # Запуск для примера 2
 
-```python3 tool.py input/example.xml output/result.txt```
+```python3 tool.py input/web_example.xml output/result.txt```
 
 # Результат для примера 2
 <img width="928" alt="Снимок экрана 2024-12-17 в 6 59 59 PM" src="https://github.com/user-attachments/assets/fcfe479c-c493-4fcb-9856-883a2f101481" />
@@ -64,6 +64,9 @@ dict(
 <img width="1073" alt="image" src="https://github.com/user-attachments/assets/07a9d2f9-354c-4b27-b677-9cdd4614b887" />
 
 
+
+в
+ 
 
 
 
